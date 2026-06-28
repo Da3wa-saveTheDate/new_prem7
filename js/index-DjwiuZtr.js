@@ -15958,7 +15958,7 @@ function ua(e) {
 
 function XD(e) {
     let {
-        basename: t = "/",
+        basename: t = "/new_prem7/",
         children: n = null,
         location: r,
         navigationType: s = Kr.Pop,
@@ -21874,8 +21874,8 @@ const V5 = {
         ...B5
     },
     de = W4(U5, r$),
-    z5 = "/assets/hero-video-bg-DnQnwqbH.mp4",
-    Vw = "/assets/hero-poster-XAleVVpH.jpg",
+    z5 = "./assets/videos/hero-video-bg-DnQnwqbH.mp4",
+    Vw = "./assets/images/hero-poster-XAleVVpH.jpg",
     Bw = {
         es: {
             hero_subtitle: `NOS CASAMOS
@@ -22335,8 +22335,8 @@ function q5({
         })]
     })
 }
-const EC = "/assets/floral-background-BGFUNgS-.jpg",
-    TC = "/assets/wedding-boat-CixtZKph.png";
+const EC = "./assets/images/floral-background-BGFUNgS-.jpg",
+    TC = "./assets/images/wedding-boat-CixtZKph.png";
 
 function H5({
     targetDate: e
@@ -22512,7 +22512,7 @@ function H5({
         })]
     })
 }
-const K5 = "/assets/our-story-bg-WFGEJs6e.jpg";
+const K5 = "./assets/images/our-story-bg-WFGEJs6e.jpg";
 
 function G5() {
     const {
@@ -22613,8 +22613,8 @@ function G5() {
         })]
     })
 }
-const PC = "/assets/oyster-pearl-4B51nQ2f.png",
-    Y5 = "/assets/scallop-shell-BQ-I-b-U.png",
+const PC = "./assets/images/oyster-pearl-4B51nQ2f.png",
+    Y5 = "./assets/images/scallop-shell-BQ-I-b-U.png",
     Wo = {
         fill: "none",
         stroke: "currentColor",
@@ -22932,9 +22932,9 @@ const Kg = Yu("inline-flex items-center justify-center gap-2 whitespace-nowrap r
         })
     });
 et.displayName = "Button";
-const nF = "/assets/costa-brava-map-B0Emn040.png",
-    rF = "/assets/seagulls-map-tr-hTK0ooPd.png",
-    sF = "/assets/seagulls-map-bl-Dltt9SOO.png";
+const nF = "./assets/images/costa-brava-map-B0Emn040.png",
+    rF = "./assets/images/seagulls-map-tr-hTK0ooPd.png",
+    sF = "./assets/images/seagulls-map-bl-Dltt9SOO.png";
 
 function iF({
     weddingDate: e
@@ -23052,13 +23052,13 @@ function iF({
         })
     })
 }
-const oF = "/assets/dress-starfish-CeFg00vx.png",
-    aF = "/assets/dress-pearl-1-CJYEfrCF.png",
-    lF = "/assets/dress-pearl-2-CgaL-x63.png",
-    cF = "/assets/dress-pearl-3-oxSU00By.png",
-    uF = "/assets/dress-pearl-4-DW0xDLjK.png",
-    dF = "/assets/dress-pearl-5-B7p7tygF.png",
-    hF = "/assets/dress-conch-cjwF-8-L.png",
+const oF = "./assets/images/dress-starfish-CeFg00vx.png",
+    aF = "./assets/images/dress-pearl-1-CJYEfrCF.png",
+    lF = "./assets/images/dress-pearl-2-CgaL-x63.png",
+    cF = "./assets/images/dress-pearl-3-oxSU00By.png",
+    uF = "./assets/images/dress-pearl-4-DW0xDLjK.png",
+    dF = "./assets/images/dress-pearl-5-B7p7tygF.png",
+    hF = "./assets/images/dress-conch-cjwF-8-L.png",
     fF = [{
         name: "Ivory",
         hex: "#FCF8F3"
@@ -31759,7 +31759,7 @@ function _E() {
         }
     })
 }
-const OB = "/assets/rsvp-confirmation-DYbKwzwP.webm";
+const OB = "./assets/videos/rsvp-confirmation-DYbKwzwP.webm";
 
 function IB({
     attendance: e
@@ -31952,7 +31952,7 @@ function IB({
         })
     })
 }
-const DB = "/assets/seagulls-story-DmuNW9zk.png";
+const DB = "./assets/images/seagulls-story-DmuNW9zk.png";
 
 function Xn({
     topColor: e = "hsl(var(--background))",
@@ -32996,8 +32996,8 @@ const zE = m.forwardRef(({
     })
 }));
 zE.displayName = VE.displayName;
-const rU = "/assets/seagulls-MLLQyjCC.png",
-    sU = "/assets/seagulls-right-wd3ApYPx.png";
+const rU = "./assets/images/seagulls-MLLQyjCC.png",
+    sU = "./assets/images/seagulls-right-wd3ApYPx.png";
 
 function iU() {
     const {
@@ -33135,7 +33135,7 @@ function iU() {
         })
     })
 }
-const oU = "/assets/dress-suit-CSkv1s1L.png";
+const oU = "./assets/images/dress-suit-CSkv1s1L.png";
 
 function aU({
     name1: e,
@@ -33256,8 +33256,8 @@ function cU() {
         })]
     })
 }
-const uU = "/assets/intro-video-DHxaiZtX.mp4",
-    dU = "/assets/envelope-intro-DDvLoXB-.jpg",
+const uU = "./assets/videos/intro-video-DHxaiZtX.mp4",
+    dU = "./assets/images/envelope-intro-DDvLoXB-.jpg",
     hU = ({
         onEnter: e,
         onInteraction: t
@@ -33302,8 +33302,8 @@ const uU = "/assets/intro-video-DHxaiZtX.mp4",
             })]
         })
     },
-    fU = "/assets/intro-music-wdGCmJlJ.mp3",
-    pU = "/assets/coral-faq-CIVkrS2x.png",
+    fU = "./assets/audio/intro-music-wdGCmJlJ.mp3",
+    pU = "./assets/images/coral-faq-CIVkrS2x.png",
     mU = () => {
         const {
             data: e,
